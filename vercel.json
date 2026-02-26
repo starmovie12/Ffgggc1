@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "app/api/cron/process-queue/route.ts": { "maxDuration": 60 },
+    "app/api/stream_solve/route.ts": { "maxDuration": 60 },
+    "app/api/tasks/route.ts": { "maxDuration": 60 },
+    "app/api/auto-process/route.ts": { "maxDuration": 60 }
+  }
+}
