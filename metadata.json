@@ -1,0 +1,5 @@
+{
+  "name": "MFLIX PERSISTENT PRO",
+  "description": "Persistent movie link scraping engine with background processing and task history.",
+  "requestFramePermissions": []
+}
